@@ -1,4 +1,4 @@
-# Whiz MVP — Real-Time Attention & Distraction Detection
+# Whiz MVP - Real-Time Attention & Distraction Detection
 
 Whiz MVP is a computer vision system that detects user attention drift and distraction in real time using only a standard webcam.
 
@@ -37,3 +37,4 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
